@@ -1,6 +1,6 @@
 # Introduction
 
-Hello Raquel, sorry for making you use this, im just way more comfortable with this than pdfs or google docs
+Hello Raquel, sorry for making you use this, im just way more comfortable with this than pdfs or google docs \
 This is still quite simple though
 
 ## Table of Contents
@@ -41,3 +41,4 @@ I'll repeat some twice as some dishes can be ate at both those times
 | --- | --- | --- |
 | [Roasted Corn](https://github.com/Chick2D/recipes/blob/main/recipes/Roasted%20Corn%20Cob.md) | Easy | |
 | [Cheese Crackers](https://github.com/Chick2D/recipes/blob/main/recipes/Cheese%20Crackers.md) | Very Easy | |
+| Cucumbers and Hummus | Very Easy |
