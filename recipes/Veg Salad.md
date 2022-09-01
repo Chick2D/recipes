@@ -3,11 +3,11 @@
 # Veg Salad
 
 ## Ingredients: 
-2 tomatoes 
-1 cucumber 
-1 carrot 
-a few sprigs of coriander 
-1 green chilli 
+2 tomatoes \
+1 cucumber \
+1 carrot \
+a few sprigs of coriander \
+1 green chilli \
 some salt and pepper to taste 
 
 ## Instructions: 
