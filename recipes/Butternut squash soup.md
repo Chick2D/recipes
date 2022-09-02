@@ -1,3 +1,12 @@
+![](https://cdn.discordapp.com/attachments/883138437413220412/1015157864635043900/butternut-squash-soup-recipe-846x846.jpg)
+
+# Butternut Squash Soup
+
+</h4>
+<h4 align="center"> 
+<a href="https://www.loveandlemons.com/butternut-squash-soup/">Source</a>
+</h4>
+
 ## Ingredients
 - 2 tablespoons extra-virgin olive oil \
 - 1 large yellow onion, chopped \
