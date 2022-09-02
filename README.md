@@ -22,20 +22,27 @@ I'll repeat some twice as some dishes can be ate at both those times
 | [Garlic Bread](https://youtu.be/wBFrmiDDIek) | Easy |
 | [Veg Frankie](https://youtu.be/hEH0ugIyg0o) | Hard |
 | [Non-Veg Frankie](https://youtu.be/FCWN9k0LpIY) | Hard |
+| [Cauliflower Mac & Cheese](https://youtu.be/l2rRX80KknY) | Easy |
+| [3 Ensalasas Picadas](https://youtu.be/CvfFVotO_0M) | Easy |
+
 ### Lunch 
 | Recipe | Difficulty | Sl No. |
 | --- | --- | --- |
 | [Butter Chicken](https://youtu.be/4V9pPGrpN1E) | Medium | |
 | [Simple chicken & rice bakes](https://youtu.be/ntd_Y2eywc4) | Medium | |
 | [Pad Thai](https://youtu.be/puHSU9ZaZPY) | Medium | |
-| [Tortilla](https://youtube.com/shorts/YwqHCDEW_uQ?feature=share) | Medium | |
+| [Wraps](https://youtube.com/shorts/YwqHCDEW_uQ?feature=share) | Medium | |
 | [Rice Bowl](https://youtube.com/shorts/_bTjrwd9gj0?feature=share) | Medium | |
 | [Poke Bowl](https://youtu.be/lM0TEcMF_Vw) | Medium |
+| [Jambalaya](https://youtu.be/sEupzScns-o) | Medium|
 | [Veg Stew](https://youtu.be/21ofoREnXbM) | Medium |
 | [Chicken Stew](https://github.com/Chick2D/recipes/blob/main/recipes/Chicken%20Stew.md) | Hard | |
 | [Italian Style Garlic Soup](https://recipe30.com/garlic-soup-italian-style.html/) | Easy |
 | [Butternut Squash Soup](https://github.com/Chick2D/recipes/blob/main/recipes/Butternut%20squash%20soup.md) | Easy |
 | [High Protein Ramen](https://youtube.com/shorts/jIGJXVLhChY?feature=share) | Easy |
+| [3 Healthy Pizza Recipes](https://youtu.be/g2fTYDftlCg) | Medium |
+| [McChicken](https://youtu.be/E-_cbqGiCbg) | Medium |
+| [Brown Rice & Chicken](https://youtu.be/p7wB3VBA9AE) | Medium |
 
 ### Dinner
 | Recipe | Difficulty | Sl No. |
@@ -53,3 +60,8 @@ I'll repeat some twice as some dishes can be ate at both those times
 | [Roasted Corn](https://github.com/Chick2D/recipes/blob/main/recipes/Roasted%20Corn%20Cob.md) | Easy | |
 | [Cheese Crackers](https://github.com/Chick2D/recipes/blob/main/recipes/Cheese%20Crackers.md) | Very Easy | |
 | [Cucumbers and Hummus](https://github.com/Chick2D/recipes/blob/main/recipes/Cucumbers%20and%20Hummus.md) | Very Easy |
+| [High Protein Mug Cake](https://youtu.be/qvFiMU24dPM) | Easy |
+| [Waffles](https://youtu.be/uTIjwx50e8A) | Easy |
+| [Chicken Tenders](https://youtu.be/vQqQw9OysTU) | Medium|
+| [McFlurry](https://youtu.be/4XKOmQvcRLY) | Easy | 
+| [Chicken Popcorn](https://youtu.be/_gWy3w5e09w) | Medium |
